@@ -3,10 +3,12 @@
 | 项目 | 内容 |
 |------|------|
 | **视频文件** | `video.mp4` |
-| **视频地址** | [观看视频](https://v.douyin.com/t2NNhW0EwUQ/) |
+| **视频地址** | [观看视频](https://weixin.qq.com/sph/AlOXUZlaj) |
 | **原始说明** | `desc.txt` |
 
 ## 视频简介
+
+多 Agent 协作，模仿公司组织架构。
 
 演示更灵活的**多 Agent 协调**案例：1 个主 Agent 指挥 3 个次 Agent，用户既可对话总经理，也可分别 @ 各角色 Agent，适用于企业内多角色分工场景。
 

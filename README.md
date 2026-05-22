@@ -34,6 +34,7 @@ easyagi/
 ├── machine-vision-tokenuse/           # 机器视觉与应用部署
 ├── single-agent/                      # 单 Agent 实战：官网截图发飞书
 ├── multi-agent/                       # 多 Agent 协调演示
+├── role/                              # 角色定义
 ├── skill/                             # Skill 相关演示
 ├── deploy/                            # 应用部署演示
 └── demo/                              # 综合案例演示
@@ -47,33 +48,33 @@ easyagi/
 
 ## 视频索引
 
-> 所有演示视频统一在抖音观看：[https://v.douyin.com/t2NNhW0EwUQ/](https://v.douyin.com/t2NNhW0EwUQ/)
+> 演示视频在微信视频号观看，各目录链接见下表；视频简介见对应 `README.md`。
 
 ### 平台基础
 
 | 目录 | 标题 | 视频文件 | 视频地址 | 说明文档 |
 |------|------|----------|----------|----------|
-| [model-mcp-skill-knowladge](./model-mcp-skill-knowladge/) | 大模型提供商、MCP、Skill、知识库与 Token 统计 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./model-mcp-skill-knowladge/README.md) |
-| [node](./node/) | 工作流节点与开发规则 | `1.mp4` `2.mp4` `3.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./node/README.md) |
-| [machine-vision-tokenuse](./machine-vision-tokenuse/) | 机器视觉与应用部署 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./machine-vision-tokenuse/README.md) |
+| [model-mcp-skill-knowladge](./model-mcp-skill-knowladge/) | MCP、Skill、大模型、知识库与 Token 统计 | `video.mp4` | [观看](https://weixin.qq.com/sph/ATy9rmE88) | [README](./model-mcp-skill-knowladge/README.md) |
+| [node](./node/) | 工作流节点与开发规则（3 集） | `1.mp4` `2.mp4` `3.mp4` | [1](https://weixin.qq.com/sph/A3CZ33OTz) [2](https://weixin.qq.com/sph/A2RXP923n) [3](https://weixin.qq.com/sph/A9l3eFYLX) | [README](./node/README.md) |
+| [machine-vision-tokenuse](./machine-vision-tokenuse/) | 机器视觉与应用部署 | `video.mp4` | [观看](https://weixin.qq.com/sph/ADJoSEAc3) | [README](./machine-vision-tokenuse/README.md) |
 
 ### 智能体开发
 
 | 目录 | 标题 | 视频文件 | 视频地址 | 说明文档 |
 |------|------|----------|----------|----------|
-| [single-agent](./single-agent/) | 单 Agent：查找官网并截图发飞书 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./single-agent/README.md) |
-| [multi-agent](./multi-agent/) | 多 Agent 协调演示 | `1.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./multi-agent/README.md) |
-| [skill](./skill/) | Skill 功能演示 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./skill/README.md) |
-| [deploy](./deploy/) | 应用部署演示 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./deploy/README.md) |
+| [single-agent](./single-agent/) | 单 Agent：查找官网并截图发飞书 | `video.mp4` | [观看](https://weixin.qq.com/sph/ASx7lmtLy) | [README](./single-agent/README.md) |
+| [multi-agent](./multi-agent/) | 多 Agent 协调演示 | `1.mp4` | [观看](https://weixin.qq.com/sph/A0lnEIKpt) | [README](./multi-agent/README.md) |
+| [role](./role/) | 角色定义 | `video.mp4` | [观看](https://weixin.qq.com/sph/AkEIG0emX) | [README](./role/README.md) |
+| [deploy](./deploy/) | 应用部署演示 | `video.mp4` | [观看](https://weixin.qq.com/sph/A9q5aROvk) | [README](./deploy/README.md) |
 
 ### 综合案例（demo）
 
 | 目录 | 标题 | 视频文件 | 视频地址 | 说明文档 |
 |------|------|----------|----------|----------|
-| [demo/1](./demo/1/) | 单 Agent 应用开发：飞书下达研究任务 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./demo/1/README.md) |
-| [demo/2](./demo/2/) | 四 Agent 股票交易建议系统 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./demo/2/README.md) |
-| [demo/3](./demo/3/) | 多 Agent 消息路由：公司经理与下属 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./demo/3/README.md) |
-| [demo/4](./demo/4/) | 纯视觉桌面自动化：微信自动回复 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./demo/4/README.md) |
+| [demo/1](./demo/1/) | 单 Agent 应用开发：飞书下达研究任务 | `video.mp4` | [观看](https://weixin.qq.com/sph/AhR8Y2zfk) | [README](./demo/1/README.md) |
+| [demo/2](./demo/2/) | 四 Agent 股票交易建议系统 | `video.mp4` | [观看](https://weixin.qq.com/sph/AaAnz6MT6) | [README](./demo/2/README.md) |
+| [demo/3](./demo/3/) | 多 Agent 消息路由：公司经理与下属 | `video.mp4` | [观看](https://weixin.qq.com/sph/AlOXUZlaj) | [README](./demo/3/README.md) |
+| [demo/4](./demo/4/) | 纯视觉桌面自动化：微信自动回复 | `video.mp4` | [观看](https://weixin.qq.com/sph/ApZc1G4KT) | [README](./demo/4/README.md) |
 
 ---
 
@@ -98,6 +99,12 @@ easyagi/
 
 ---
 
+## 获取项目源码
+
+如需获取本项目**完整源码**，请前往 **[demo/2](./demo/2/README.md#联系作者--获取项目源码)** 扫描微信二维码联系作者。
+
+---
+
 ## 贡献与反馈
 
-欢迎通过 Issue 反馈视频说明问题或补充观看链接。各目录 `desc.txt` 为原始说明素材（已加入 `.gitignore`，不会上传），经整理后的可读版本见对应目录 `README.md`。
+欢迎通过 Issue 反馈视频说明问题。各目录 `desc.txt` 为原始说明素材（已加入 `.gitignore`，不会上传），经整理后的可读版本见对应目录 `README.md`。

@@ -1,1 +1,9 @@
-https://v.douyin.com/t2NNhW0EwUQ/
+1. https://weixin.qq.com/sph/A3CZ33OTz
+视频介绍：这期视频主要介绍了工作流中常用的节点：开始节点、流程控制节点、变量节点、数据解析节点
+
+2. https://weixin.qq.com/sph/A2RXP923n
+视频介绍：这期视频介绍了工作流中常用的节点：编程节点、输出节点、结果节点、类型转换、页面设计。
+
+
+3.https://weixin.qq.com/sph/A9l3eFYLX
+视频介绍：这期视频介绍了工作流中常用的节点：消息路由、yolo8、ocr、大模型等节点。

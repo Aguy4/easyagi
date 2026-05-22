@@ -3,10 +3,12 @@
 | 项目 | 内容 |
 |------|------|
 | **视频文件** | `video.mp4` |
-| **视频地址** | [观看视频](https://v.douyin.com/t2NNhW0EwUQ/) |
+| **视频地址** | [观看视频](https://weixin.qq.com/sph/A9q5aROvk) |
 | **原始说明** | 本目录暂无 `desc.txt`；内容与 [machine-vision-tokenuse](../machine-vision-tokenuse/README.md) 中「应用部署」章节相关 |
 
 ## 视频简介
+
+智能体开发完成后，如何部署，让其 7×24 小时不间断服务。
 
 演示将开发完成的智能体**保存版本并部署**，使应用提供 7×24 小时不间断服务，涵盖运行、界面、HTTP 接口与飞书触发等调用方式。
 
