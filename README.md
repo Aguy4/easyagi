@@ -47,33 +47,33 @@ easyagi/
 
 ## 视频索引
 
-> 视频地址预留为空，发布到 GitHub Releases / 外链后请自行填入。
+> 所有演示视频统一在抖音观看：[https://v.douyin.com/t2NNhW0EwUQ/](https://v.douyin.com/t2NNhW0EwUQ/)
 
 ### 平台基础
 
 | 目录 | 标题 | 视频文件 | 视频地址 | 说明文档 |
 |------|------|----------|----------|----------|
-| [model-mcp-skill-knowladge](./model-mcp-skill-knowladge/) | 大模型提供商、MCP、Skill、知识库与 Token 统计 | `video.mp4` | | [README](./model-mcp-skill-knowladge/README.md) |
-| [node](./node/) | 工作流节点与开发规则 | `1.mp4` `2.mp4` `3.mp4` | | [README](./node/README.md) |
-| [machine-vision-tokenuse](./machine-vision-tokenuse/) | 机器视觉与应用部署 | `video.mp4` | | [README](./machine-vision-tokenuse/README.md) |
+| [model-mcp-skill-knowladge](./model-mcp-skill-knowladge/) | 大模型提供商、MCP、Skill、知识库与 Token 统计 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./model-mcp-skill-knowladge/README.md) |
+| [node](./node/) | 工作流节点与开发规则 | `1.mp4` `2.mp4` `3.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./node/README.md) |
+| [machine-vision-tokenuse](./machine-vision-tokenuse/) | 机器视觉与应用部署 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./machine-vision-tokenuse/README.md) |
 
 ### 智能体开发
 
 | 目录 | 标题 | 视频文件 | 视频地址 | 说明文档 |
 |------|------|----------|----------|----------|
-| [single-agent](./single-agent/) | 单 Agent：查找官网并截图发飞书 | `video.mp4` | | [README](./single-agent/README.md) |
-| [multi-agent](./multi-agent/) | 多 Agent 协调演示 | `1.mp4` | | [README](./multi-agent/README.md) |
-| [skill](./skill/) | Skill 功能演示 | `video.mp4` | | [README](./skill/README.md) |
-| [deploy](./deploy/) | 应用部署演示 | `video.mp4` | | [README](./deploy/README.md) |
+| [single-agent](./single-agent/) | 单 Agent：查找官网并截图发飞书 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./single-agent/README.md) |
+| [multi-agent](./multi-agent/) | 多 Agent 协调演示 | `1.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./multi-agent/README.md) |
+| [skill](./skill/) | Skill 功能演示 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./skill/README.md) |
+| [deploy](./deploy/) | 应用部署演示 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./deploy/README.md) |
 
 ### 综合案例（demo）
 
 | 目录 | 标题 | 视频文件 | 视频地址 | 说明文档 |
 |------|------|----------|----------|----------|
-| [demo/1](./demo/1/) | 单 Agent 应用开发：飞书下达研究任务 | `video.mp4` | | [README](./demo/1/README.md) |
-| [demo/2](./demo/2/) | 四 Agent 股票交易建议系统 | `video.mp4` | | [README](./demo/2/README.md) |
-| [demo/3](./demo/3/) | 多 Agent 消息路由：公司经理与下属 | `video.mp4` | | [README](./demo/3/README.md) |
-| [demo/4](./demo/4/) | 纯视觉桌面自动化：微信自动回复 | `video.mp4` | | [README](./demo/4/README.md) |
+| [demo/1](./demo/1/) | 单 Agent 应用开发：飞书下达研究任务 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./demo/1/README.md) |
+| [demo/2](./demo/2/) | 四 Agent 股票交易建议系统 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./demo/2/README.md) |
+| [demo/3](./demo/3/) | 多 Agent 消息路由：公司经理与下属 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./demo/3/README.md) |
+| [demo/4](./demo/4/) | 纯视觉桌面自动化：微信自动回复 | `video.mp4` | [观看](https://v.douyin.com/t2NNhW0EwUQ/) | [README](./demo/4/README.md) |
 
 ---
 
