@@ -1,4 +1,0 @@
-https://weixin.qq.com/sph/ADJoSEAc3
-
-视频描述：
-这期视频介绍平台的机器视觉和应用部署两个模块
