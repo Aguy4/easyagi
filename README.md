@@ -103,7 +103,7 @@ easyagi/
 
 如需获取本项目**完整源码**，请扫描下方微信二维码联系作者。
 
-![微信二维码](https://easyagi.com.cn/api/filesystem/fl/cfg?name=contact)
+![微信二维码](https://easyagi.com.cn/api/filesystem/fl/cfg?name=contact&raw=true)
 
 ---
 
