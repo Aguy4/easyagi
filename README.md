@@ -101,7 +101,9 @@ easyagi/
 
 ## 获取项目源码
 
-如需获取本项目**完整源码**，请前往 **[demo/2](./demo/2/README.md#联系作者--获取项目源码)** 扫描微信二维码联系作者。
+如需获取本项目**完整源码**，请扫描下方微信二维码联系作者。
+
+![微信二维码](https://easyagi.com.cn/api/filesystem/fl/cfg?name=contact)
 
 ---
 
